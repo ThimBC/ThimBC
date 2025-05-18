@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain, crypto, AI and a few other topics
 - 🌱 I’m currently learning how to run a blockchain
 - 💞️ I’m looking to collaborate on ... who knows what
-- 📫 How to reach me blockchain.hemlock585@slmail.me
+- 📫 How to reach me : 
 - ⚡ Fun fact: I hate coding
 
 <!---
