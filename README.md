@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThimBC
-- 👀 I’m interested in Blockchain, crypto, AI and a few other topics
-- 🌱 I’m currently learning how to run a blockchain
+- 👀 I’m interested in Blockchain, AI and a few other topics
+- 🌱 I’m currently learning how to run agents
 - 💞️ I’m looking to collaborate on ... who knows what
 - 📫 How to reach me : 
 - ⚡ Fun fact: I hate coding
