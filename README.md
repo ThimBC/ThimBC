@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ThimBC
 - 👀 I’m interested in: what is coming
 - 🌱 I’m currently learning: 💡 So many things.... 
-- - 💞️ I’m looking to collaborate on: ❌ not at this point in time
+- 💞️ I’m looking to collaborate on: ❌ not at this point in time
 - 📫 How to reach me : 
 - ⚡ Fun fact: To be discovered
 
