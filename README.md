@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ThimBC
-- 👀 I’m interested in Blockchain, AI and a few other topics
-- 🌱 I’m currently learning how to run agents
-- 💞️ I’m looking to collaborate on ... who knows what
+- 👀 I’m interested in: what is coming
+- 🌱 I’m currently learning: 💡 So many things.... 
+- - 💞️ I’m looking to collaborate on: ❌ not at this point in time
 - 📫 How to reach me : 
-- ⚡ Fun fact: I hate coding
+- ⚡ Fun fact: To be discovered
 
 <!---
 ThimBC/ThimBC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
